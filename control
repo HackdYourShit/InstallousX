@@ -1,0 +1,9 @@
+Package: com.artikus.installousx
+Name: InstallousX
+Depends: com.autopear.installipa
+Version: 1.0.0alpha
+Architecture: iphoneos-arm
+Description: Installous, reborn from the ashes.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Utilities
